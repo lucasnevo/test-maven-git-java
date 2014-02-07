@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 /**
- * Hello world! Sample App for educationaal purposes
+ * Hello world! Sample App for educational purposes
  *
  */
 public class App 
